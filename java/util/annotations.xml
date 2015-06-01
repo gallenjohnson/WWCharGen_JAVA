@@ -1,0 +1,8 @@
+<root>
+  <item name='java.util.Map'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item name='java.util.TreeMap.Entry K getKey()'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+</root>
